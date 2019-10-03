@@ -1,5 +1,4 @@
 # zodiac-characterset
-#####README_BEGIN#####
 Zodiac is an open source character set which is created using macros, functions etc... It is created for C.
 I created this to make C programming easier for me, you and everyone else. The features of zodiac are:
 1. It makes C programming compfortable for use by replacing some stuff
@@ -24,6 +23,3 @@ Miscellaneous Operators:
 |ASSN - Zodiac replaces this with an equal to
 |group - Zodiac replaces this with struct
 |libGroup - zodiac replaces this with class
-Zodiac islicenced under the MIT licence, which follows.
-#####README_END#####
-
